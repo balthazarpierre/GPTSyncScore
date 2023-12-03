@@ -1,0 +1,9 @@
+body {
+  width: 200px;
+  padding: 15px;
+}
+
+input,
+button {
+  margin-bottom: 10px;
+}
