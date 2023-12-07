@@ -7,9 +7,9 @@ Idea behind the extension : [Linkedin Post](https://www.linkedin.com/posts/pierr
 _I have been playing around with ChatGPT for 3 weeks now, and I went from pessimistic to optimistic about the impact it can have on society. But for that, I think we need transparency about ChatgptUsage.
 GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerity._
 
-🟢 MVP : In clicking the extension, a popup appears where I can enter the two texts. I click on the 'SyncScore' button, and the percentage is copied to the clipboard.
+- 🟢 MVP : In clicking the extension, a popup appears where I can enter the two texts. I click on the 'SyncScore' button, and the percentage is copied to the clipboard.
 
-🎯 Target feature : I am in the ChatGPT interface, entering my text into ChatGPT (with a prompt ID?). I iterate on the modification, and once satisfied with the result, I click on the extension, and the SyncScore is directly copied to my clipboard. Additionally, there is an option available where one can visually see the difference between the two texts.
+- 🎯 Target feature : I am in the ChatGPT interface, entering my text into ChatGPT (with a prompt ID?). I iterate on the modification, and once satisfied with the result, I click on the extension, and the SyncScore is directly copied to my clipboard. Additionally, there is an option available where one can visually see the difference between the two texts.
 
 ℹ️ Code is not so good right now because it was mostly generated with chatGPT 😅
 
