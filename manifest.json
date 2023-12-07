@@ -12,6 +12,5 @@
     },
     "default_title": "GPTSyncScore",
     "default_popup": "popup.html"
-  },
-  "permissions": ["activeTab"]
+  }
 }
