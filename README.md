@@ -1,11 +1,11 @@
 # GPTSyncScore chrome extension
 
-🙏 Feel at ease to submit PR
+🙏 Feel at ease to submit PR 🚀🚀🚀
 
 Idea behind the extension : [Linkedin Post](https://www.linkedin.com/posts/pierre-baele_chatgpt-anniv-keepitreal-activity-7136227603769634817-rELS?utm_source=share&utm_medium=member_desktop)
 
-I have been playing around with ChatGPT for 3 weeks now, and I went from pessimistic to optimistic about the impact it can have on society. But for that, I think we need transparency about ChatgptUsage.
-GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerity.
+_I have been playing around with ChatGPT for 3 weeks now, and I went from pessimistic to optimistic about the impact it can have on society. But for that, I think we need transparency about ChatgptUsage.
+GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerity._
 
 🟢 MVP : In clicking the extension, a popup appears where I can enter the two texts. I click on the 'SyncScore' button, and the percentage is copied to the clipboard.
 
@@ -23,4 +23,4 @@ GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerit
 
 - no words in common => GPTSyncScore 100%
 - all words are the same => GPTSyncScore 0%
-- orginal text "toto est" / final text "toto est" => GPTSyncScore 50%
+- orginal text "toto" / final text "toto est" => GPTSyncScore 50%
