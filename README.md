@@ -18,6 +18,7 @@ GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerit
 - [] Improve GPTSyncScore calculation
 - [] Add (CI) tests
 - [] Better ui/ux
+- [] add changelog
 
 ## QA
 
