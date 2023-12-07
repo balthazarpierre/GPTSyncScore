@@ -4,7 +4,8 @@
 
 Idea behind the extension : [Linkedin Post](https://www.linkedin.com/posts/pierre-baele_chatgpt-anniv-keepitreal-activity-7136227603769634817-rELS?utm_source=share&utm_medium=member_desktop)
 
-I have been playing around with ChatGPT for 3 weeks now, and I went from pessimistic to optimistic about the impact it can have on society. But for that, I think we need transparency about ChatgptUsage
+I have been playing around with ChatGPT for 3 weeks now, and I went from pessimistic to optimistic about the impact it can have on society. But for that, I think we need transparency about ChatgptUsage.
+GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerity.
 
 🟢 MVP : In clicking the extension, a popup appears where I can enter the two texts. I click on the 'SyncScore' button, and the percentage is copied to the clipboard.
 
