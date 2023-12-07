@@ -19,6 +19,7 @@ GPTSyncScore below 50% seems ok to me. The lower the better in terms of sincerit
 - [] Add (CI) tests
 - [] Better ui/ux
 - [] add changelog
+- [] add makefile to create archive.zip
 
 ## QA
 
